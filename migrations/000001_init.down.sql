@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS audit_logs;
+DROP TABLE IF EXISTS credit_transactions;
+DROP TABLE IF EXISTS resident_credits;
+DROP TABLE IF EXISTS incidents;
+DROP TABLE IF EXISTS collection_tasks;
+DROP TABLE IF EXISTS collection_points;
+DROP TABLE IF EXISTS vehicles;
+DROP TABLE IF EXISTS sessions;
+DROP TABLE IF EXISTS users;
